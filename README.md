@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# TIC TAC TOE GAME
+This project is created in react 
 
-This project was bootstrapped with [Create React App]
 
